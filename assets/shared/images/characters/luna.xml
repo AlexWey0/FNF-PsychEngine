@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="luna.png"><SubTexture name="luna idle0000" x="0" y="0" width="365" height="451" frameX="0" frameY="0" frameWidth="365" frameHeight="451" />
+// 12 FPS
+<SubTexture name="luna idle0001" x="365" y="0" width="365" height="451" frameX="0" frameY="0" frameWidth="365" frameHeight="451" />
+<SubTexture name="luna idle0002" x="730" y="0" width="365" height="451" frameX="0" frameY="0" frameWidth="365" frameHeight="451" />
+<SubTexture name="luna idle0003" x="1095" y="0" width="365" height="451" frameX="0" frameY="0" frameWidth="365" frameHeight="451" />
+<SubTexture name="luna idle0004" x="0" y="451" width="365" height="451" frameX="0" frameY="0" frameWidth="365" frameHeight="451" />
+<SubTexture name="luna idle0005" x="0" y="451" width="365" height="451" frameX="0" frameY="0" frameWidth="365" frameHeight="451" />
+<SubTexture name="luna idle0006" x="0" y="451" width="365" height="451" frameX="0" frameY="0" frameWidth="365" frameHeight="451" />
+<SubTexture name="luna down0000" x="365" y="451" width="357" height="370" frameX="0" frameY="0" frameWidth="357" frameHeight="370" />
+<SubTexture name="luna down0001" x="722" y="451" width="357" height="370" frameX="0" frameY="0" frameWidth="357" frameHeight="370" />
+<SubTexture name="luna left0000" x="1079" y="451" width="313" height="457" frameX="0" frameY="0" frameWidth="313" frameHeight="457" />
+<SubTexture name="luna left0001" x="0" y="908" width="313" height="457" frameX="0" frameY="0" frameWidth="313" frameHeight="457" />
+<SubTexture name="luna right0000" x="313" y="908" width="374" height="427" frameX="0" frameY="0" frameWidth="374" frameHeight="427" />
+<SubTexture name="luna right0001" x="687" y="908" width="374" height="427" frameX="0" frameY="0" frameWidth="374" frameHeight="427" />
+<SubTexture name="luna up0000" x="1061" y="908" width="383" height="472" frameX="0" frameY="0" frameWidth="383" frameHeight="472" />
+<SubTexture name="luna up0001" x="0" y="1380" width="383" height="472" frameX="0" frameY="0" frameWidth="383" frameHeight="472" />
+</TextureAtlas>
