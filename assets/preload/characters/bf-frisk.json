@@ -102,39 +102,6 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-4,
-				0
-			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				37,
 				11
 			],
@@ -164,57 +131,24 @@
 			"fps": 24,
 			"name": "BF Dead confirm",
 			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-16
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bf_frisk",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-frisk",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		75,
+		101,
+		166
 	],
 	"camera_position": [
 		0,
-		0
+		-80
 	],
 	"sing_duration": 4,
 	"scale": 1
